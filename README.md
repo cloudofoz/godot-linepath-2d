@@ -2,7 +2,7 @@
 
 <img src="addons/linepath2d/icon.svg" width="64" align="left"/>
 
-## godot-curvemesh
+## godot-linepath-2d
 **This simple Godot addon brings the `Line2D` drawing capabilities to `Path2D` curves.**
 
 <br clear="left" />
