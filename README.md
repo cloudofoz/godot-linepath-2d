@@ -16,7 +16,7 @@
 
 ## Getting Started
 
-1. Download the [repository](https://github.com/cloudofoz/godot-linepath-2d/archive/refs/heads/main.zip) or ~~_download the (stable) addon from the AssetLib in Godot_~~ **(not yet)**.
+1. Download the **[repository](https://github.com/cloudofoz/godot-linepath-2d/archive/refs/heads/main.zip)** or download the (stable) addon from the AssetLib in Godot (**[link](https://godotengine.org/asset-library/asset/2630)**).
 2. Import the **addons** folder into your project.
 4. Activate `LinePath2D` under * *Project > Project Settings > Plugins.* *
    <p align="center"> 
