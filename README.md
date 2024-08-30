@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/Godot-v4.2.1-informational) ![License](https://img.shields.io/github/license/cloudofoz/godot-linepath-2d)
+![Version](https://img.shields.io/badge/Godot-v4.3-informational) ![License](https://img.shields.io/github/license/cloudofoz/godot-linepath-2d)
 
 <img src="addons/linepath2d/icon.svg" width="64" align="left"/>
 
