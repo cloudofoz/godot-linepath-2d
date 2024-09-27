@@ -139,7 +139,7 @@ var cap_joint_mode: int = Line2D.LINE_JOINT_SHARP:
 		return lp_line.joint_mode if lp_line else 0
 
 ## The style of the beginning of the polyline
-@export_enum("None: 0", "Box: 1", "Round: 1")
+@export_enum("None: 0", "Box: 1", "Round: 2")
 var cap_begin_cap: int = Line2D.LINE_CAP_NONE:
 	set(value): 
 		if(lp_line): lp_line.begin_cap_mode = value
@@ -147,7 +147,7 @@ var cap_begin_cap: int = Line2D.LINE_CAP_NONE:
 		return lp_line.begin_cap_mode if lp_line else Line2D.LINE_CAP_NONE
 
 ## The style of the ending of the polyline
-@export_enum("None: 0", "Box: 1", "Round: 1")
+@export_enum("None: 0", "Box: 1", "Round: 2")
 var cap_end_cap: int = Line2D.LINE_CAP_NONE:
 	set(value): 
 		if(lp_line): lp_line.end_cap_mode = value
